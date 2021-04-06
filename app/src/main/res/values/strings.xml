@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="no_internet_connection_offline_mode_cannot_work">No internet connection, Offline mode works only after you\'ve opened one time online</string>
+    <string name="no_internet_connection_works_without_internet">There is no internet connection, now it is working offline</string>
+    <string name="none">None</string>
+    <string name="search_a_movie">Search a Movie</string>
+    <string name="genres">Genres:</string>
+</resources>
